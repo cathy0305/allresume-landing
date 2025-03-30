@@ -17,7 +17,7 @@ export default function SignUpPage() {
           <div className="text-center mb-6">
             <h1 className="text-3xl font-bold mb-2">Sign Up</h1>
             <p className="text-gray-600">
-              Create an account to build and track your AI-optimized resumes.
+              Create an account to build your resumes.
             </p>
           </div>
 

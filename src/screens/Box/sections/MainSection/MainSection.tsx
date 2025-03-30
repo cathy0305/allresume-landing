@@ -169,10 +169,10 @@ export const MainSection = (): JSX.Element => {
                 variant="outline"
                 className="px-5 py-2 rounded-xl border border-solid border-[#05050c26] font-text-regular-medium text-[#05050c]"
               >
-                Sign in
+                Log in
               </Button>
               <Button className="px-5 py-2 rounded-xl bg-[#636ae8] font-text-regular-medium text-white">
-                Join
+                Sign Up
               </Button>
             </div>
           </div>
